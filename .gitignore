@@ -1,0 +1,5 @@
+# Exclude bazel artifacts.
+bazel*
+
+# Exclude tests
+tests*
